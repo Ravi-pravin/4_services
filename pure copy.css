@@ -1,0 +1,45 @@
+
+.serviceContainer{
+    /* background-color: #f39393; */
+}
+.serviceSection{
+    /* background-color: #F60606; */
+}
+.serviceHeadingBox h3{
+    font-family: var(--ffPrimary);
+    font-size: 3.4rem;
+    color: #F60606;
+    margin-top: 2rem;
+}
+.serviceBody{
+    /* background-color: #f6ee06; */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.serviceCard{
+    /* background-color: #b1b9b1; */
+    margin: 5rem 1rem 5rem 1rem;
+    padding: 2rem 2rem;
+    height: 25rem;
+    width: 40rem;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0, 0, 0.2);
+
+}
+.cardHeader img{
+    /* background-color: #06f6ee; */
+    height: 8rem;
+}
+.cardBody{
+    /* background-color: #0a06f6; */
+    padding: 1rem;
+    font-family: var(--ffPrimary);
+    font-size: 1.5rem;
+}
+.cardFooter{
+    /* background-color: #f606be; */
+    font-family: var(--ffSecondary);
+    font-size: 1.7rem;
+}

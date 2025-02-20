@@ -1,0 +1,64 @@
+
+.serviceContainer{
+    /* background-color: #f39393; */
+}
+.serviceSection{
+    /* background-color: #F60606; */
+}
+.serviceHeadingBody{
+    /* background-color: antiquewhite; */
+}
+.serviceHeadingBlock{
+    /* background-color: antiquewhite; */
+}
+.serviceHeadingBox{
+    /* background-color: blue; */
+}
+.serviceHeadingBox h3{
+    /* background-color: blue; */
+    font-family: var(--ffPrimary);
+    font-size: 3.4rem;
+    color: #F60606;
+    font-weight: 300;
+}
+.serviceBody{
+    /* background-color: blueviolet; */
+}
+.serviceBox{
+    /* background-color: bisque; */
+}
+.serviceCard{
+    /* background-color: blue; */
+    height: 22rem;
+    width: 37rem;
+    margin: 5rem 0.5rem;
+    padding: 2rem 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0,0, 0, 0.2);
+}
+.cardHeader{
+    /* background-color: burlywood; */
+    width: 100%;
+}
+.cardHeader img{
+    /* background-color: burlywood; */
+    height: 10rem;
+}
+.cardBody{
+    /* background-color: brown; */
+    text-align: start;
+    width: 100%;
+}
+.cardFooter{
+    /* background-color: aqua; */
+    text-align: start;
+    width: 100%;
+}
+.row1{
+    /* background-color: aqua; */
+}
+.row2{
+    /* background-color: aqua; */
+}
+.row3{
+    /* background-color: aqua; */
+}

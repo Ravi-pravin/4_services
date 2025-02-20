@@ -215,6 +215,8 @@ footer {
     }
     .serviceCard{
         margin: 1rem 0rem;
+        height: 22rem;
+        width: 100%;
     }
     .row1{
         margin-bottom: 7rem;
